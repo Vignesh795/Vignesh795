@@ -16,6 +16,6 @@ Python Developer
 
 ![VIGNESH's GitHub stats](![LeetCode Stats](https://leetcard.jacoblin.cool/VIGNESH?theme=dark&font=Delius%20Swash%20Caps&ext=contest))
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
 
 
